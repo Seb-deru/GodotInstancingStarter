@@ -134,18 +134,3 @@ shape = SubResource("2")
 
 [node name="Ball" parent="." unique_id=1686405434 instance=ExtResource("2")]
 position = Vector2(385, 142)
-
-[node name="Ball2" parent="." unique_id=95346597 instance=ExtResource("2")]
-position = Vector2(151, 184)
-
-[node name="Ball3" parent="." unique_id=589346796 instance=ExtResource("2")]
-position = Vector2(318, 258)
-
-[node name="Ball4" parent="." unique_id=279550477 instance=ExtResource("2")]
-position = Vector2(714, 147)
-
-[node name="Ball5" parent="." unique_id=516407277 instance=ExtResource("2")]
-position = Vector2(915, 143)
-
-[node name="Ball6" parent="." unique_id=1993142980 instance=ExtResource("2")]
-position = Vector2(788, 263)
