@@ -5,7 +5,7 @@
 [ext_resource type="AudioStream" uid="uid://bve0nj7cw5748" path="res://assets/freesound_community-sound_jump-90516.wav" id="3_3tj6u"]
 
 [sub_resource type="PhysicsMaterial" id="1"]
-bounce = 0.5
+bounce = 1.0
 
 [sub_resource type="CircleShape2D" id="2"]
 radius = 37.1452
